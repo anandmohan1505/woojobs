@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Profile" />
+        <item
+            android:id="@+id/members"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Find Jobs" />
+        <item
+            android:id="@+id/events"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Exams" />
+        <item
+            android:id="@+id/Jobs"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Company Profile" />
+        <item
+            android:id="@+id/Settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Settings" />
+    </group>
+
+
+
+</menu>

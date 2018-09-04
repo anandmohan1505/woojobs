@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "315361324777",
+    "firebase_url": "https://woojobs-a90dd.firebaseio.com",
+    "project_id": "woojobs-a90dd",
+    "storage_bucket": "woojobs-a90dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315361324777:android:c64ca8bf13892c36",
+        "android_client_info": {
+          "package_name": "com.ana.woojobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315361324777-bghm20pqut45o2id1orppa5n0fo7q03o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2K4uliRcUI6CHCqPdNJLD8Sd0ykL61ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
